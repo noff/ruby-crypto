@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chilkat (9.5.0.57)
+    ffi (1.9.10)
+    rbnacl (3.3.0)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chilkat
+  rbnacl
+
+BUNDLED WITH
+   1.11.2
