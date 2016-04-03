@@ -1,3 +1,5 @@
+# https://github.com/cryptosphere/rbnacl/wiki/Public-Key-Encryption
+
 require 'rbnacl'
 
 class User
